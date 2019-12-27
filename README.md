@@ -23,7 +23,7 @@ Select whether position solution offsets are relative to the "reference position
 options - "from_analysis_center" or "first_epoch"
 
 <p align="center">
-  <img src="unavco_webpage.png" width="500" alt="UNAVCO web page">
+  <img src="unavco_webpage.png" width="800" alt="UNAVCO web page">
 </p>
 
 
