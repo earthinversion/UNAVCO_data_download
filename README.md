@@ -1,5 +1,5 @@
 # UNAVCO GPS Position Time Series Download
-## Author: `Utpal Kumar`
+__Utpal Kumar__
 
 This package can automatically download GPS position time series data for all the requested set of stations by taking advantage of the UNAVCO web services. The stations can be requested by geographical coordinates for a region, or using the input text file.
 
