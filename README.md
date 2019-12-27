@@ -6,7 +6,7 @@ This package can automatically download GPS position time series data for all th
 </p>
 
 ## Data Source:
-`https://www.unavco.org/data/gps-gnss/data-access-methods/data-access-methods.html`
+https://www.unavco.org/data/gps-gnss/data-access-methods/data-access-methods.html
 
 ## Parameter setting:
 --> `stn = "MDMT"` The four character station identifier.
