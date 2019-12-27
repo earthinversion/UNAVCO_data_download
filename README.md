@@ -27,7 +27,7 @@ options - "from_analysis_center" or "first_epoch"
 </p>
 
 
-## PS: 
+## NOTES: 
 The metadata for the stations stored in the all_GPS_stations_data.json can be downloaded using the webservice 
 
 https://www.unavco.org/data/web-services/documentation/documentation.html#!/gps/getPositionByStationId
