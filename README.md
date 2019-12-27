@@ -1,6 +1,13 @@
 # UNAVCO GPS Position Time Series Download
 This package can automatically download GPS position time series data for all the requested set of stations by taking advantage of the UNAVCO web services. The stations can be requested by geographical coordinates for a region, or using the input text file.
 
+<p align="center">
+  <img src="unavco_webpage.png" width="800" alt="UNAVCO web page">
+</p>
+
+## Data Source:
+`https://www.unavco.org/data/gps-gnss/data-access-methods/data-access-methods.html`
+
 ## Parameter setting:
 --> `stn = "MDMT"` The four character station identifier.
 
@@ -22,9 +29,7 @@ Coordinates in NAM14 are available from all AC's with the exception of UNR. Coor
 Select whether position solution offsets are relative to the "reference position" indicated in the source file (default) or whether the coordinate for the first epoch is adjusted to be 0.000m. The actual relative station displacements through time are the same regardless of option selected.
 options - "from_analysis_center" or "first_epoch"
 
-<p align="center">
-  <img src="unavco_webpage.png" width="800" alt="UNAVCO web page">
-</p>
+
 
 
 ## NOTES: 
