@@ -1,3 +1,4 @@
 MDMT_2013-01-01_2018-01-01.csv
 push_github.sh
 .gitignore
+*.csv

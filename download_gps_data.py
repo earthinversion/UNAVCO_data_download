@@ -1,6 +1,7 @@
 import pandas as pd
 
-stn = "MDMT" #The four character station identifier.
+# stn = "MDMT" #The four character station identifier.
+stn = "KULU" #The four character station identifier.
 
 analysisCenter = "cwu" #GPS station position solutions are available from 4 different Analysis Centers (AC's).
 #other options are - pbo, nmt, unr
