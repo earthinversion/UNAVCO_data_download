@@ -1,10 +1,25 @@
 # UNAVCO GPS Position Time Series Download
 __Utpal Kumar__
 
-This package can automatically download GPS position time series data for all the requested set of stations by taking advantage of the UNAVCO web services. The stations can be requested by geographical coordinates for a region, or using the input text file.
+This package automatically download GPS position time series data for all the requested set of stations by taking advantage of the UNAVCO web services. The stations can be requested by geographical coordinates for a region, or using the input text file.
 
 <p align="center">
   <img src="unavco_webpage.png" width="800" alt="UNAVCO web page">
+</p>
+
+## Dependencies
+- Numpy
+- Pandas
+- Matplotlib and Basemap 
+
+## How to run?
+- edit the parameters in the file `run.py`
+- execute the python program: 
+
+```python run.py```
+
+<p align="center">
+  <img src="downloaded_stations_map_ex.png" width="500" alt="Download">
 </p>
 
 ## Data Source:
